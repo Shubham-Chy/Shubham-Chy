@@ -71,6 +71,7 @@ I'm a Computer Science student based in India, focused on backend development, s
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ch0udharyjiX)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ch0udharyji.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ch0udharyji.com-2EA44F?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ch0udharyji.com)
+[![Razorpay](https://img.shields.io/badge/Support%20Me-Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)](https://razorpay.me/@ch0udharyji)
 
 <sub>© 2026 Shubham Choudhary</sub>
 
